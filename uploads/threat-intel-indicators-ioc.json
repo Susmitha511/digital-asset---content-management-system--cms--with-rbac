@@ -1,0 +1,9 @@
+{
+  "feed": "CISA Alert AA24-300A",
+  "threatCategory": "Advanced Persistent Threat",
+  "targetAssets": [
+    "CMS Repositories",
+    "Unauthenticated Endpoints"
+  ],
+  "mitigation": "Strict HTTP-only JWT cookies, RBAC, input sanitization"
+}

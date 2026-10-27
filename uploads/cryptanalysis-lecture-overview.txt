@@ -1,0 +1,2 @@
+[TRANSCRIPT - CYBER FORENSICS LECTURE 07]
+Topic: Memory dump carving, volatile artifact recovery, and non-repudiation in digital asset investigations.

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+    <rect width="800" height="500" fill="#0f172a"/>
+    <text x="400" y="50" font-family="system-ui, sans-serif" font-size="22" font-weight="bold" fill="#38bdf8" text-anchor="middle">Enterprise Zero-Trust Network Defense Topology</text>
+    <rect x="50" y="100" width="200" height="120" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
+    <text x="150" y="145" font-family="system-ui" font-size="14" fill="#f8fafc" text-anchor="middle" font-weight="600">Identity &amp; Access (IdP)</text>
+    <text x="150" y="175" font-family="system-ui" font-size="12" fill="#94a3b8" text-anchor="middle">JWT / RBAC Policy Engine</text>
+    <rect x="300" y="100" width="200" height="120" rx="8" fill="#1e293b" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="400" y="145" font-family="system-ui" font-size="14" fill="#f8fafc" text-anchor="middle" font-weight="600">API Gateway &amp; Shield</text>
+    <text x="400" y="175" font-family="system-ui" font-size="12" fill="#94a3b8" text-anchor="middle">Helmet / Rate Limiting</text>
+    <rect x="550" y="100" width="200" height="120" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="650" y="145" font-family="system-ui" font-size="14" fill="#f8fafc" text-anchor="middle" font-weight="600">Encrypted Asset Vault</text>
+    <text x="650" y="175" font-family="system-ui" font-size="12" fill="#94a3b8" text-anchor="middle">RBAC Access Boundary</text>
+    <line x1="250" y1="160" x2="300" y2="160" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4"/>
+    <line x1="500" y1="160" x2="550" y2="160" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4"/>
+    <rect x="150" y="300" width="500" height="140" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+    <text x="400" y="340" font-family="system-ui" font-size="15" fill="#f8fafc" text-anchor="middle" font-weight="600">Immutable Audit Logging &amp; Threat Intelligence Stream</text>
+    <text x="400" y="375" font-family="system-ui" font-size="12" fill="#94a3b8" text-anchor="middle">Every CRUD event, authentication change, and file download is permanently cataloged.</text>
+  </svg>

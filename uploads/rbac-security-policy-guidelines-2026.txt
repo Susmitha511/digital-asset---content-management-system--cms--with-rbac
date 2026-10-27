@@ -1,0 +1,5 @@
+# INSTITUTIONAL ACCESS CONTROL & RBAC STANDARD (2026)
+
+1. Purpose: Enforce strict least-privilege role-based access control.
+2. Invariants: Server-side token validation, role hierarchy, auditable transactions.
+3. Implementation: Digital Asset & Content Management System.

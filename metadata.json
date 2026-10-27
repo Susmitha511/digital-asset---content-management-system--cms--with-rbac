@@ -1,0 +1,6 @@
+{
+  "name": "Digital Asset & Content Management System (CMS) with RBAC",
+  "description": "Enterprise-grade Digital Asset & Content Management System with Role-Based Access Control, audit logging, content approval workflows, and secure asset management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
